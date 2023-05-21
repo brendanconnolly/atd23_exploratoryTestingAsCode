@@ -1,6 +1,4 @@
-# Session Template
-
-## \[Session Title\]
+# \[Session Title\]
 
 **Time Box** \[minutes\] estimated time to complete, its ok if you need more/less
 
@@ -20,6 +18,6 @@ include screen shots, log snippets, etc. as needed to help show your work
 
 ## Follow Ups
 
-* Questions you need answering to move forard
+* Questions you need answering to move forward
 * Potential bugs to investigate
 * Additional Sessions you may need
