@@ -1,23 +1,18 @@
 # \[Session Title\]
 
-**Time Box** \[minutes\] estimated time to complete, its ok if you need more/less
+**Time Box** \[0.5\] estimated time to complete, its ok if you need more/less
 
-**Site Used For Testing** \[url\]
+**Site Used For Testing** \[https://zattas.me\]
 
 ## Context
 
-_Optional_ - Add/Describe any special setup or data needed to start testing
+_Optional_ - Follow the install instructions on the website
 
 ## Notes
 
-document you actions, thoughts, findings here.
-
-if a ticket has acceptance criteria reference confirming those here
-
-include screen shots, log snippets, etc. as needed to help show your work
+![Surfing Pikachu](https://cdn.shopify.com/s/files/1/1336/2769/products/il_fullxfull.1416445160_pc0w_2000x.jpg?v=1541958267)
+![Other Pikachu](/sessions/helloWorld/zattas/data/pikachu.jpg)
 
 ## Follow Ups
 
-* Questions you need answering to move forward
-* Potential bugs to investigate
-* Additional Sessions you may need
+* Get better pikachu image
