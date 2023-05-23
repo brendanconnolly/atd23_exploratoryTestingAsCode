@@ -1,4 +1,4 @@
-# \[Session Testing\]
+# \ExploratoryTesting]
 
 **Time Box** \[10min\] estimated time to complete, its ok if you need more/less
 
