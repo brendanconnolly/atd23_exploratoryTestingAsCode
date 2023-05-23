@@ -4,6 +4,8 @@
 
 [Git Cheatsheet](/docs/git.cheatsheet.md)
 
+[Session Notes Template](/docs/template.md)
+
 ## Exercises
 
 The  [Exercise Directory](./exercises/README.md) contains instructions for each exercise.
