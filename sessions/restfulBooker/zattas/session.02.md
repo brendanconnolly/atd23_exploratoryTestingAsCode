@@ -10,9 +10,9 @@ _Optional_ - Add/Describe any special setup or data needed to start testing
 
 ## Notes
 
-* found a bug booking a slot, it posted some nulls ![img](./data/2.png)
+* found a bug booking a slot, it posted some nulls ![./data/2.png]
 
-* Was able to contact the owners (i think) ![img](./data/1.png)
+* Was able to contact the owners (i think) ![./data/1.png]
 
 ## Follow Ups
 
