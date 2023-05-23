@@ -1,6 +1,6 @@
-# \[Session Title\]
+# \[Session Testing\]
 
-**Time Box** \[minutes\] estimated time to complete, its ok if you need more/less
+**Time Box** \[10min\] estimated time to complete, its ok if you need more/less
 
 **Site Used For Testing** \[url\]
 
